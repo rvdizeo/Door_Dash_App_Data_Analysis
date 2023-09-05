@@ -1,2 +1,5 @@
-# Door_Dash_App_Data_Analysis
-Optimize decision making for orders on Doordash platform through the analysis and processing of the data provided by the app
+# Doordash Analysis
+
+## Objectives
+* Optimize decision-making for orders on the DoorDash platform by analyzing and processing the app's provided data.
+* Provide valuable insights to restaurants, comparing them to their competition through data analysis and processing
